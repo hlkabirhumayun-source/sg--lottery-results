@@ -1,0 +1,9 @@
+android/
+├── app/
+│   ├── build.gradle
+│   └── src/
+│       └── main/
+│           └── AndroidManifest.xml
+├── build.gradle
+├── gradle.properties
+└── settings.gradle
